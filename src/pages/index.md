@@ -1,17 +1,15 @@
 ---
 layout: ../layouts/Layout.astro
-title: Nice Tat Astro Template
+title: Home
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# Nice Tat Astro Template
+# Joseph Wilson
 
-[youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
+[linkedin](https://www.linkedin.com/in/joseph-c-wilson/)
 
-[instagram](https://www.instagram.com/caseyneistat/)
+[instagram](https://www.instagram.com/j03_________)
 
-[onlyfans](/onlyfans)
-
-[twitter](https://twitter.com/Casey)
+[twitter](https://twitter.com/j03_________)
 
 [contact](/contact)
